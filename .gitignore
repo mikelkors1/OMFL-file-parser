@@ -37,7 +37,6 @@ build/
 # Project directories
 tests/
 .github/
-photoforREADME/
 
 # IDE and config files
 .vscode/

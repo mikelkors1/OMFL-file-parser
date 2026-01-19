@@ -42,7 +42,7 @@ void Value::SetKeyValue(const std::string& key, const Value& value) {
 }
 ```
 
-<video controls src="photoforREADME/Запись экрана 2026-01-17 в 20.45.02.mov" title="Title"></video>
+![Демонстрация работы SetKeyValue](photoforREADME/demo.gif)
 
 Основная логика парсинга реализована в функции
 
