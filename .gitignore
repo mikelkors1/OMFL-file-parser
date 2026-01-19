@@ -38,3 +38,7 @@ build/
 tests/
 .github/
 photoforREADME/
+
+# IDE and config files
+.vscode/
+.gitignore
